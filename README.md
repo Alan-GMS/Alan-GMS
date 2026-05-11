@@ -1,12 +1,12 @@
-##Bienvenido a mi github
+## Bienvenido a mi github
 ¡Hola! soy Alan y este es mi perfil personal donde puedes encontrar mi informacion de contacto y mi curriculum como estudiante de ciclo superior de Aplicaciones Multiplataforma (DAM).
 
-##Sobre mi
+## Sobre mi
 Me apaciona principalmente el frontend, creando interfaces modernas y funcionales, aunque también tengo experiencia trabajando con Java, Python y administración de sistemas
 
 ---
 
-##Habilidades tecnicas
+## Habilidades tecnicas
 + **HTML**:
 + **CSS**
 + **JAVA-SCRIPT**
@@ -14,7 +14,7 @@ Me apaciona principalmente el frontend, creando interfaces modernas y funcionale
 + **PYTHON**
 + **WINDOWS Y LINUX SERVER**
 
-##Habilidades tecnicas
+## Habilidades tecnicas
 + **Ingles**:
 + **Gallego**
 + **Español**
@@ -25,5 +25,5 @@ Me apaciona principalmente el frontend, creando interfaces modernas y funcionale
   
 ---
 
-##Experiencia laboral
+## Experiencia laboral
 - Estuve tres meses de pracitcas en Alex libera una empresa de reparaciones
