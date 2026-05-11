@@ -7,17 +7,17 @@ Me apaciona principalmente el frontend, creando interfaces modernas y funcionale
 ---
 
 ## Habilidades tecnicas
-+ **HTML**:
-+ **CSS**
-+ **JAVA-SCRIPT**
-+ **JAVA**
-+ **PYTHON**
-+ **WINDOWS Y LINUX SERVER**
+- **HTML**:
+- **CSS**
+- **JAVA-SCRIPT**
+- **JAVA**
+- **PYTHON**
+- **WINDOWS Y LINUX SERVER**
 
 ## Habilidades tecnicas
-+ **Ingles**:
-+ **Gallego**
-+ **Español**
+- **Ingles**:
+- **Gallego**
+- **Español**
 
 ## Contacto
 - Email: alanmundaray@gmail.com
